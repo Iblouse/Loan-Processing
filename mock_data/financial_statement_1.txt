@@ -1,0 +1,46 @@
+
+        FINANCIAL STATEMENT - JOHN SMITH
+        Statement Period: January 1, 2025 - March 31, 2025
+        Prepared Date: 04/06/2025
+
+        INCOME SUMMARY:
+        Primary Employment: $42,500.00 (quarterly)
+        Investment Income: $2,500.00 (quarterly)
+        Total Income: $45,000.00
+
+        ASSETS:
+        Checking Account: $11,363.00
+        Savings Account: $38,963.00
+        Investment Portfolio: $57,549.00
+        Retirement Accounts: $226,954.00
+        Real Estate (Primary Residence): $319,745.00
+        Vehicles: $32,904.00
+        Total Assets: $687,478.00
+
+        LIABILITIES:
+        Mortgage Balance: $448,955.00
+        Car Loan: $24,315.00
+        Student Loans: $46,152.00
+        Credit Card Debt: $2,691.00
+        Personal Loans: $12,829.00
+        Total Liabilities: $534,942.00
+
+        NET WORTH: $152,536.00
+
+        MONTHLY EXPENSES:
+        Mortgage Payment: $2,244.78
+        Car Payment: $486.30
+        Insurance (Home/Auto): $312.00
+        Utilities: $596.00
+        Groceries & Dining: $1,188.00
+        Entertainment: $767.00
+        Other Expenses: $1,104.00
+        Total Monthly Expenses: $6,698.08
+
+        DEBT-TO-INCOME RATIO: 297.19%
+
+        I certify that the information provided above is accurate and complete.
+
+        John Smith
+        04/14/2025
+        

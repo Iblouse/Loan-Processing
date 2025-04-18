@@ -1,0 +1,43 @@
+{
+  "applicant_id": "AP-45984",
+  "credit_score": 720,
+  "report_date": "2025-04-18",
+  "credit_history": [
+    {
+      "account_type": "Credit Card",
+      "account_status": "Current",
+      "payment_history": "Excellent",
+      "current_balance": 3372,
+      "credit_limit": 18280,
+      "open_date": "2021-07-14"
+    },
+    {
+      "account_type": "Auto Loan",
+      "account_status": "Current",
+      "payment_history": "Good",
+      "current_balance": 19026,
+      "original_loan_amount": 30006,
+      "open_date": "2022-05-24"
+    },
+    {
+      "account_type": "Mortgage",
+      "account_status": "Current",
+      "payment_history": "Excellent",
+      "current_balance": 372764,
+      "original_loan_amount": 184602,
+      "open_date": "2022-08-13"
+    },
+    {
+      "account_type": "Personal Loan",
+      "account_status": "Current",
+      "payment_history": "Good",
+      "current_balance": 12746,
+      "original_loan_amount": 13951,
+      "open_date": "2023-05-03"
+    }
+  ],
+  "inquiries_last_6_months": 3,
+  "derogatory_marks": 1,
+  "collections": 0,
+  "public_records": 0
+}

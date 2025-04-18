@@ -1,0 +1,46 @@
+
+        FINANCIAL STATEMENT - MICHAEL WILLIAMS
+        Statement Period: January 1, 2025 - March 31, 2025
+        Prepared Date: 04/13/2025
+
+        INCOME SUMMARY:
+        Primary Employment: $37,500.00 (quarterly)
+        Investment Income: $5,000.00 (quarterly)
+        Total Income: $42,500.00
+
+        ASSETS:
+        Checking Account: $11,361.00
+        Savings Account: $13,780.00
+        Investment Portfolio: $104,397.00
+        Retirement Accounts: $277,591.00
+        Real Estate (Primary Residence): $335,850.00
+        Vehicles: $42,754.00
+        Total Assets: $785,733.00
+
+        LIABILITIES:
+        Mortgage Balance: $269,393.00
+        Car Loan: $2,220.00
+        Student Loans: $34,318.00
+        Credit Card Debt: $6,302.00
+        Personal Loans: $11,368.00
+        Total Liabilities: $323,601.00
+
+        NET WORTH: $462,132.00
+
+        MONTHLY EXPENSES:
+        Mortgage Payment: $1,346.96
+        Car Payment: $44.40
+        Insurance (Home/Auto): $487.00
+        Utilities: $553.00
+        Groceries & Dining: $590.00
+        Entertainment: $236.00
+        Other Expenses: $628.00
+        Total Monthly Expenses: $3,885.36
+
+        DEBT-TO-INCOME RATIO: 190.35%
+
+        I certify that the information provided above is accurate and complete.
+
+        Michael Williams
+        04/17/2025
+        

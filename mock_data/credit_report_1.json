@@ -1,0 +1,35 @@
+{
+  "applicant_id": "AP-74494",
+  "credit_score": 802,
+  "report_date": "2025-04-18",
+  "credit_history": [
+    {
+      "account_type": "Credit Card",
+      "account_status": "Current",
+      "payment_history": "Excellent",
+      "current_balance": 1031,
+      "credit_limit": 17295,
+      "open_date": "2023-05-17"
+    },
+    {
+      "account_type": "Mortgage",
+      "account_status": "Current",
+      "payment_history": "Excellent",
+      "current_balance": 129763,
+      "original_loan_amount": 417755,
+      "open_date": "2016-06-04"
+    },
+    {
+      "account_type": "Student Loan",
+      "account_status": "Current",
+      "payment_history": "Good",
+      "current_balance": 33524,
+      "original_loan_amount": 57387,
+      "open_date": "2016-04-21"
+    }
+  ],
+  "inquiries_last_6_months": 2,
+  "derogatory_marks": 1,
+  "collections": 0,
+  "public_records": 0
+}

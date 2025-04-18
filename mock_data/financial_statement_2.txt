@@ -1,0 +1,46 @@
+
+        FINANCIAL STATEMENT - SARAH JOHNSON
+        Statement Period: January 1, 2025 - March 31, 2025
+        Prepared Date: 03/31/2025
+
+        INCOME SUMMARY:
+        Primary Employment: $21,250.00 (quarterly)
+        Investment Income: $1,250.00 (quarterly)
+        Total Income: $22,500.00
+
+        ASSETS:
+        Checking Account: $14,063.00
+        Savings Account: $37,098.00
+        Investment Portfolio: $67,726.00
+        Retirement Accounts: $448,511.00
+        Real Estate (Primary Residence): $319,518.00
+        Vehicles: $22,871.00
+        Total Assets: $909,787.00
+
+        LIABILITIES:
+        Mortgage Balance: $305,028.00
+        Car Loan: $27,357.00
+        Student Loans: $3,275.00
+        Credit Card Debt: $8,938.00
+        Personal Loans: $19,786.00
+        Total Liabilities: $364,384.00
+
+        NET WORTH: $545,403.00
+
+        MONTHLY EXPENSES:
+        Mortgage Payment: $1,525.14
+        Car Payment: $547.14
+        Insurance (Home/Auto): $304.00
+        Utilities: $598.00
+        Groceries & Dining: $850.00
+        Entertainment: $631.00
+        Other Expenses: $1,081.00
+        Total Monthly Expenses: $5,536.28
+
+        DEBT-TO-INCOME RATIO: 404.87%
+
+        I certify that the information provided above is accurate and complete.
+
+        Sarah Johnson
+        04/14/2025
+        
